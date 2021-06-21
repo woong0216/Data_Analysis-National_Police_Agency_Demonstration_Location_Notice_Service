@@ -35,7 +35,7 @@
 
 <img width="552" alt="location 5" src="https://user-images.githubusercontent.com/63955072/122700695-b9d31080-d286-11eb-9efd-f96d78b4f7d2.PNG">
 
-> Visualization 2
+> Visualization 2 (Markdown)
 
 <img width="490" alt="location 6" src="https://user-images.githubusercontent.com/63955072/122700792-e9821880-d286-11eb-8732-6a2cb1228bc6.PNG">
 
