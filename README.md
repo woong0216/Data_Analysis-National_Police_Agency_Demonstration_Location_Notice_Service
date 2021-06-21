@@ -11,7 +11,7 @@
 
 <img width="525" alt="pdf scan" src="https://user-images.githubusercontent.com/63955072/122699350-31537080-d284-11eb-8f0e-e3ce1a9fe510.PNG">
 
-- Extract Latitude Hardness to Address Using API
+- Extract Latitude Hardness to Address Using API (seewith.ipynb)
 > Data collected by pdf file
 
 <img width="288" alt="location 1" src="https://user-images.githubusercontent.com/63955072/122700221-d28ef680-d285-11eb-8967-f97d1ece9655.PNG">
@@ -29,11 +29,13 @@
 <img width="397" alt="location 4" src="https://user-images.githubusercontent.com/63955072/122700648-a45de680-d286-11eb-837a-750ac66454f4.PNG">
 
 ## Output
-- Visualization 1
+- Map Visualization (seewith2.ipynb)
+
+> Visualization 1
 
 <img width="552" alt="location 5" src="https://user-images.githubusercontent.com/63955072/122700695-b9d31080-d286-11eb-9efd-f96d78b4f7d2.PNG">
 
-- Visualization 2
+> Visualization 2
 
 <img width="490" alt="location 6" src="https://user-images.githubusercontent.com/63955072/122700792-e9821880-d286-11eb-8732-6a2cb1228bc6.PNG">
 
