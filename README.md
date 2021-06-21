@@ -43,6 +43,3 @@
 - Visualizations were drawn based on the scale of the demonstration.
 - The location of the demonstrations was more specific.
 - The location and scale of daily demonstrations can be schematically plotted on Seoul maps in real time.
-
-
-
